@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a44b1101-7f48-43dc-adb7-cacd0a9b05f2": {
+      "ProjectGuid": "a44b1101-7f48-43dc-adb7-cacd0a9b05f2",
+      "DisplayName": "FlightManagementWebAPI",
+      "ColorIndex": 0
+    },
+    "b23c621e-fba5-4609-b205-7db3b105c8f9": {
+      "ProjectGuid": "b23c621e-fba5-4609-b205-7db3b105c8f9",
+      "DisplayName": "DomainModel",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
